@@ -43,7 +43,7 @@
 
 ## 📫 Connect With Me
 * Email: buihieu26102003@gmail.com
-* LinkedIn: [Hieu_IT](https://www.linkedin.com/in/vn-raizo-b48169231/)
+* LinkedIn: [Hieu_IT](https://www.linkedin.com/in/b%C3%B9i-%C4%91%E1%BB%A9c-hi%E1%BA%BFu-b48169231/)
 
 
 
