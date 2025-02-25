@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+ <img src="https://github.com/user-attachments/assets/b3664485-4bfd-4fd6-901a-d046693e96e1" width="40" height="40" alt="TypeScript" />
 </div>
 
 ### Frameworks & Libraries
@@ -37,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" />
   <img src="https://github.com/user-attachments/assets/cf8af20c-7305-4372-a7cf-0cd72a8093c4" width="40" height="40" alt="Liquibase" />
   <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="40" height="40" alt="SonarQube" />
+ <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" width="40" height="40" alt="Apache Maven" />
 </div>
 
 ## 📫 Connect With Me
