@@ -41,6 +41,9 @@
  <img src="https://icon.icepanel.io/Technology/svg/Apache-Maven.svg" width="40" height="40" alt="Apache Maven" />
 </div>
 
+### Badges
+<a href="https://github.com/Java-Junkie-2003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Junkie-2003&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ## 📫 Connect With Me
 * Email: buihieu26102003@gmail.com
 * LinkedIn: [Hieu_IT](https://www.linkedin.com/in/b%C3%B9i-%C4%91%E1%BB%A9c-hi%E1%BA%BFu-b48169231/)
