@@ -74,6 +74,18 @@ I enjoy working across both frontend and backend, from designing responsive inte
 
 ---
 
+### 🤖 AI / ML & GenAI
+> *Building intelligent applications with LLMs — RAG pipelines, AI Agents, prompt engineering, and local model deployment*
+
+| Area | Tools |
+|------|-------|
+| **Computer Vision** | Applied YOLO-based analysis for smart agriculture use cases |
+| **LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **LLM Providers** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  |
+| **RAG & Vector Search** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) |
+
+---
+
 ### 🚀 DevOps & Tools
 
 > *Improving development workflow, deployment, and collaboration*
