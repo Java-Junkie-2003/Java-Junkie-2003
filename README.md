@@ -87,17 +87,6 @@ I enjoy working across both frontend and backend, from designing responsive inte
 
 ---
 
-## 📚 Education
-
-**Industrial University of Ho Chi Minh City**  
-Software Engineering · 2021 – 2025
-
-- GPA: **3.35/4.0**
-- TOEIC: **750**
-- Research interest: **IoT, AI, and software systems**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
